@@ -1,0 +1,16 @@
+
+.idea/
+db.sqlite3
+celerybeat-schedule
+website/templates/
+website/website/__init__.pyc
+website/website/__pycache__/
+website/website/settings.pyc
+website/website/urls.pyc
+website/website/wsgi.pyc
+website/zabbix/__init__.pyc
+website/zabbix/__pycache__/
+website/zabbix/hls.pyc
+website/zabbix/migrations/__pycache__/
+website/zabbix/urls.pyc
+website/zabbix/views.pyc
